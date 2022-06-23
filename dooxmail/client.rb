@@ -1,4 +1,4 @@
-module Mailwizz
+module Dooxmail
 
   ##
   # Client is the http client interface used to make the remote requests and receive the responses.
