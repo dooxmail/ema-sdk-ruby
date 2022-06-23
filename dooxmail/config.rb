@@ -1,4 +1,4 @@
-module Mailwizz
+module Dooxmail
   require 'uri'
 
   ##
