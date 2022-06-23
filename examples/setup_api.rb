@@ -1,6 +1,6 @@
 require '../dooxmail/dooxmail'
 
-include dooxmail
+include Dooxmail
 include Endpoint
 
 # noinspection SpellCheckingInspection
