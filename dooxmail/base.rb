@@ -1,4 +1,4 @@
-module Mailwizz
+module Dooxmail
 
   ##
   # This file contains the base class for the Mailwizz Python-SDK.
