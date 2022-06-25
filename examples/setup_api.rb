@@ -5,7 +5,7 @@ include Endpoint
 
 # noinspection SpellCheckingInspection
 config = Config.new({
-                        'api_url': 'http://ema.doox.cloud/api/index.php',
+                        'api_url': 'https://ema.doox.cloud/api/index.php',
                         'public_key': 'PUBLIC_KEY',
                         'private_key': 'PRIVATE_KEY',
                         'charset': 'utf-8'
