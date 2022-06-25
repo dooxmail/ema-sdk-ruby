@@ -1,7 +1,7 @@
 DooxMail Ruby SDK
 ================
 
-This repository contains the Ruby SDK for MailWizz EMA.
+This repository contains the Ruby SDK for DooxMail EMA.
  
 IMPORTANT! This project is a work in progress 
 
