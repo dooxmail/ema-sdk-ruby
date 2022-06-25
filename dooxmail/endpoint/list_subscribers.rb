@@ -1,4 +1,4 @@
-module Mailwizz
+module Dooxmail
   module Endpoint
     require 'json'
 
@@ -224,8 +224,7 @@ module Mailwizz
       end
 
       ##
-      # Search in a all lists for given subscriber by email address
-      # Please note that this is available only for mailwizz >= 1.3.6.2
+      # Search in a all lists for given subscriber by email addres
       #
       # @param [String] email_address
       # @return [excon/Response]
