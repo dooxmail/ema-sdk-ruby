@@ -1,4 +1,4 @@
-module Mailwizz
+module Dooxmail
   module Endpoint
 
     ##
