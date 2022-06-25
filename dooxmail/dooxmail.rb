@@ -1,4 +1,4 @@
-module Mailwizz
+module Dooxmail
   VERSION_CODE = '1.0.0'
 end
 
