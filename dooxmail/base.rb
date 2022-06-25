@@ -1,7 +1,7 @@
 module Dooxmail
 
   ##
-  # This file contains the base class for the Mailwizz Python-SDK.
+  # This file contains the base class for the DooxMail Ruby-SDK.
   # Base is the base class for all the other classes used in the sdk.
   ##
   class Base
